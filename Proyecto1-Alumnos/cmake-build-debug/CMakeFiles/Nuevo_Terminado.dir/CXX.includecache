@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Anna/Documents/CLION/Sebatian Venero/proyecto/Proyecto1-Alumnos/Ascii.cpp
+Ascii.h
+C:/Users/Anna/Documents/CLION/Sebatian Venero/proyecto/Proyecto1-Alumnos/Ascii.h
+ascii.h
+C:/Users/Anna/Documents/CLION/Sebatian Venero/proyecto/Proyecto1-Alumnos/ascii.h
+
+C:/Users/Anna/Documents/CLION/Sebatian Venero/proyecto/Proyecto1-Alumnos/Ascii.h
+fstream
+-
+iostream
+-
+
+C:/Users/Anna/Documents/CLION/Sebatian Venero/proyecto/Proyecto1-Alumnos/ascii.h
+fstream
+-
+iostream
+-
+

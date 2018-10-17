@@ -1,0 +1,33 @@
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Anna/Documents/CLION/Sebatian Venero/proyecto/Proyecto1-Alumnos/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe" "cmTC_2bd85/fast"
+C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_2bd85.dir\build.make CMakeFiles/cmTC_2bd85.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/Anna/Documents/CLION/Sebatian Venero/proyecto/Proyecto1-Alumnos/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2bd85.dir/CMakeCXXCompilerABI.cpp.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE     -o CMakeFiles\cmTC_2bd85.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\JetBrains\CLion 2018.2.3\bin\cmake\win\share\cmake-3.12\Modules\CMakeCXXCompilerABI.cpp"
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_2bd85.dir\build.make:65: CMakeFiles/cmTC_2bd85.dir/CMakeCXXCompilerABI.cpp.obj] Error -1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/Anna/Documents/CLION/Sebatian Venero/proyecto/Proyecto1-Alumnos/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_2bd85/fast] Error 2
+
+
+
+Detecting CXX [-std=c++2a] compiler features failed to compile with the following output:
+Change Dir: C:/Users/Anna/Documents/CLION/Sebatian Venero/proyecto/Proyecto1-Alumnos/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe" "cmTC_11831/fast"
+C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_11831.dir\build.make CMakeFiles/cmTC_11831.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/Anna/Documents/CLION/Sebatian Venero/proyecto/Proyecto1-Alumnos/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_11831.dir/feature_tests.cxx.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE    -std=c++2a -o CMakeFiles\cmTC_11831.dir\feature_tests.cxx.obj -c "C:\Users\Anna\Documents\CLION\Sebatian Venero\proyecto\Proyecto1-Alumnos\cmake-build-debug\CMakeFiles\feature_tests.cxx"
+Linking CXX executable cmTC_11831.exe
+"C:\Program Files\JetBrains\CLion 2018.2.3\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_11831.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.2.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_11831.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\cmTC_11831.dir/objects.a @CMakeFiles\cmTC_11831.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE      -Wl,--whole-archive CMakeFiles\cmTC_11831.dir/objects.a -Wl,--no-whole-archive  -o cmTC_11831.exe -Wl,--out-implib,libcmTC_11831.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_11831.dir\linklibs.rsp
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_11831.dir\build.make:88: cmTC_11831.exe] Error -1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/Anna/Documents/CLION/Sebatian Venero/proyecto/Proyecto1-Alumnos/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_11831/fast] Error 2
+
+
+

@@ -1,0 +1,3 @@
+C:/Users/Anna/Documents/CLION/Sebatian Venero/proyecto/Proyecto1-Alumnos/cmake-build-debug/CMakeFiles/Nuevo_Terminado.dir
+C:/Users/Anna/Documents/CLION/Sebatian Venero/proyecto/Proyecto1-Alumnos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anna/Documents/CLION/Sebatian Venero/proyecto/Proyecto1-Alumnos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
